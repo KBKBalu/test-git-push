@@ -1,4 +1,6 @@
 //IBM Exam links
+
+// Session Id =BB370306
 //http://ibm.biz/ipattest =IPAT
 //http://ibm.biz/kenexatest =Kenexa
 //http://ibm.biz/hirevuetest =Hirevue
